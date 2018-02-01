@@ -46,7 +46,7 @@ I like to use RVM to get my house in order...
 2. rvm use ruby-2.3.0
 3. rvm gemset create capybara-siteprism-example-framework
 4. rvm gemset use capybara-siteprism-example-framework
-5. gem install nokogiri -v '1.8.1'
+5. gem install nokogiri -v '1.8.2'
 6. bundle install
 
 ## Example commands to run a specific feature file...
