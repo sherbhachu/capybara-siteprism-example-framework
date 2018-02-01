@@ -1,0 +1,4 @@
+html_report: -f pretty -f html --out reports/test_results.html
+chrome: BROWSER=chrome
+
+default: -r features -p html_report -p chrome
